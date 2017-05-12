@@ -1,1 +1,1 @@
-# blender-addons
+# Blender Addons
