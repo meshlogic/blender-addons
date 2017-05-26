@@ -24,3 +24,10 @@ I wanted to try to fix these issues. But alas the default Collada exporter is ma
 
 * Requires python collada module https://github.com/pycollada/pycollada. Pycollada is not a part of official Blender, so must be installed into Blender's folder (eg. Blender/2.78/scripts/modules)
 
+
+## ChangeLog
+
+### Version 0.2 (17.05.2017)
+- Objects (geometry nodes) are sorted by name
+
+### Version 0.1 (12.05.2017)
